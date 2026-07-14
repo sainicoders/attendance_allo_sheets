@@ -1,0 +1,262 @@
+[
+  {
+    "sNo": 1,
+    "centreCode": 101,
+    "name": "Boys Higher Secondary School, Barzulla",
+    "address": "Old Airport Road Rawalpora: Old Airport Road, Rawalpora, Near Grid Station, Barzulla, Srinagar - 190005. Near Grid Station",
+    "hoiName": "Shafiqa",
+    "contactNo": "7889879660",
+    "email": "gulreyaz6@gmail.com",
+    "seatingCapacity": 240
+  },
+  {
+    "sNo": 2,
+    "centreCode": 102,
+    "name": "Boys Higher Secondary School, Soura",
+    "address": "3rd Street, Bilal Colony, Soura, Srinagar, Jammu and Kashmir 190011",
+    "hoiName": "Ms Asifa Shaheen",
+    "contactNo": "7889895041",
+    "email": "asifashaheen1234@gmail.com",
+    "seatingCapacity": 288
+  },
+  {
+    "sNo": 3,
+    "centreCode": 103,
+    "name": "Boys Higher Secondary School, Jawahar Nagar",
+    "address": "Jawahar Nagar Main Chowk, near Raj Bagh, Srinagar, Jammu and Kashmir 190008",
+    "hoiName": "Huma Mir",
+    "contactNo": "9419019037",
+    "email": "bhssjawaharnagar@gmail.com",
+    "seatingCapacity": 504
+  },
+  {
+    "sNo": 4,
+    "centreCode": 104,
+    "name": "Girls Higher Secondary School, Soura",
+    "address": "Anchar, Soura, Srinagar, Jammu and Kashmir 190011",
+    "hoiName": "Mr.Irfan Ali Shah",
+    "contactNo": "9419013756",
+    "email": "souraghss1@gmail.com",
+    "seatingCapacity": 432
+  },
+  {
+    "sNo": 5,
+    "centreCode": 105,
+    "name": "Girls Higher Secondary School, Khanyar",
+    "address": "Khanyar Main Road, Khanyar, Srinagar, Jammu and Kashmir 190003",
+    "hoiName": "Wahida Sheikh",
+    "contactNo": "9541999852",
+    "email": "ghsskhanyar@gmail.com",
+    "seatingCapacity": 360
+  },
+  {
+    "sNo": 6,
+    "centreCode": 106,
+    "name": "Abdul Ahad Azad Memorial Degree College",
+    "address": "Main Road Bemina, HIG Colony, Iqbalabad, Srinagar, Jammu and Kashmir 190018",
+    "hoiName": "Prop. Muzafar Ahmad",
+    "contactNo": "9419072024",
+    "email": "gdcbemina@gmail.com",
+    "seatingCapacity": 576
+  },
+  {
+    "sNo": 7,
+    "centreCode": 107,
+    "name": "Girls Higher Secondary School, Nawakadal",
+    "address": "Nawakadal Womens College Rd, Kanimazar, Safakadal, Srinagar, Jammu and Kashmir 190002",
+    "hoiName": "Dr.Benazir Chalkoo",
+    "contactNo": "8899962695",
+    "email": "nawakadalschool@gmail.com",
+    "seatingCapacity": 384
+  },
+  {
+    "sNo": 8,
+    "centreCode": 108,
+    "name": "Girls Higher Secondary School, Sonwar",
+    "address": "Gupkar Road, Palpora, Sonwar Bagh, Srinagar, Jammu and Kashmir 190001",
+    "hoiName": "Sabiya Qayoom",
+    "contactNo": "7889376091",
+    "email": "ghsssonwar@gmail.com",
+    "seatingCapacity": 312
+  },
+  {
+    "sNo": 9,
+    "centreCode": 109,
+    "name": "Girls Higher Secondary School, Amira Kadal",
+    "address": "Opposite Iqbal Park, Near Bindroo Pharmacy, Shergarhi, Amira Kadal, Srinagar, Jammu and Kashmir 190008",
+    "hoiName": "Nusrat Manzoor",
+    "contactNo": "7006770465",
+    "email": "ghssamirakadal2026@gmail.com",
+    "seatingCapacity": 360
+  },
+  {
+    "sNo": 10,
+    "centreCode": 110,
+    "name": "Sir Syed Memorial Hr. Sec. School Soitang Padshahi Bagh",
+    "address": "Main Road, Soiteng, Kursoo Padshahi Bagh, Srinagar, Jammu and Kashmir 190008",
+    "hoiName": "Mohammad Maqbool Bhat",
+    "contactNo": "9906570058/ 7889412355",
+    "email": "ssmhighersecondary@gmail.com",
+    "seatingCapacity": 408
+  },
+  {
+    "sNo": 11,
+    "centreCode": 111,
+    "name": "Boys Higher Secondary School, Budgam",
+    "address": "D.C. Office Road, Ward No. 1, near R&B Office, Main Town Budgam, Jammu and Kashmir 191111",
+    "hoiName": "Sheikh Faisal",
+    "contactNo": "9419066656",
+    "email": "bhssbudgam2017@gmail.com",
+    "seatingCapacity": 408
+  },
+  {
+    "sNo": 12,
+    "centreCode": 112,
+    "name": "Sp Hr. Secodary School, M.A Road",
+    "address": "Maulana Azad (M.A.) Road, Kothi Bagh, Srinagar, Jammu and Kashmir 190001",
+    "hoiName": "Ajaz Ahmad Reshi",
+    "contactNo": "8825017174",
+    "email": "sphsssgr123@gmail.com",
+    "seatingCapacity": 432
+  },
+  {
+    "sNo": 13,
+    "centreCode": 113,
+    "name": "Girls Higher Secondary School, Budgam",
+    "address": "Budgam - Gojra Road, Dadna, Ward No. 1, Main Town Budgam, Jammu and Kashmir 191111",
+    "hoiName": "Ehsan Ahmad",
+    "contactNo": "9419010369",
+    "email": "ghssb314@gmail.com",
+    "seatingCapacity": 312
+  },
+  {
+    "sNo": 14,
+    "centreCode": 114,
+    "name": "Boys Higher Secondary School, Humhama",
+    "address": "Karipora Humhama Road, Ward No. 33, Bagender, Humhama, Budgam, Jammu and Kashmir 190021",
+    "hoiName": "Shabir Hussain Rather",
+    "contactNo": "6005824286",
+    "email": "bhsshumhama2020@gmail.com",
+    "seatingCapacity": 240
+  },
+  {
+    "sNo": 15,
+    "centreCode": 115,
+    "name": "Srinagar Woman’s Collage, Batapora Zakura",
+    "address": "Jeelnabad, Batpora, Zakura, Hazratbal, Srinagar, Jammu and Kashmir 190006",
+    "hoiName": "Prop. Syed Ifat Ara",
+    "contactNo": "9419441348/ 9419408124",
+    "email": "srinagarwomenscollagegmail.com",
+    "seatingCapacity": 384
+  },
+  {
+    "sNo": 16,
+    "centreCode": 116,
+    "name": "University Of Kashmir",
+    "address": "Hazratbal, Srinagar, Jammu and Kashmir 190006",
+    "hoiName": "Prop. Fayaz Ahmad",
+    "contactNo": "9419035303",
+    "email": "admissions@kashmiruniversity.ac.in",
+    "seatingCapacity": 1428
+  },
+  {
+    "sNo": 17,
+    "centreCode": 117,
+    "name": "National Institute of Technology (NIT), Srinagar",
+    "address": "Hazratbal, Srinagar, Jammu and Kashmir 190006",
+    "hoiName": "Prop. B. A Mir",
+    "contactNo": "9103402500",
+    "email": "nitsri.ac.in/asadur@nitsri.ac.in",
+    "seatingCapacity": 1210
+  },
+  {
+    "sNo": 18,
+    "centreCode": 118,
+    "name": "Govt. MPML Higher Secondary School",
+    "address": "B.D. Khan Road, Baghi-Dilawar Khan, Shamswari, Srinagar, Jammu and Kashmir 190001",
+    "hoiName": "Ms. Nikhat Mir",
+    "contactNo": "9596433114",
+    "email": "princpalmpml@gmail.com",
+    "seatingCapacity": 288
+  },
+  {
+    "sNo": 19,
+    "centreCode": 119,
+    "name": "Govt. Collage For Woman’s, Ma Road",
+    "address": "M.A. Road, Kothi Bagh, Srinagar, Jammu and Kashmir 190001",
+    "hoiName": "Dr. Yasmeen Farooq",
+    "contactNo": "9419012127",
+    "email": "principal@gcwmaroad.edu.in",
+    "seatingCapacity": 720
+  },
+  {
+    "sNo": 20,
+    "centreCode": 120,
+    "name": "Govt. College of Education (IASE), MA Road, Srinagar",
+    "address": "MA Road, Kothi Bagh, Srinagar, Jammu and Kashmir 190001",
+    "hoiName": "",
+    "contactNo": "9419018037",
+    "email": "gcoe.sgr@gmail.com",
+    "seatingCapacity": 420
+  },
+  {
+    "sNo": 21,
+    "centreCode": 121,
+    "name": "Islamia College Of Science And Commerce",
+    "address": "Hawal, Srinagar, Jammu and Kashmir 190002",
+    "hoiName": "Prof. Aijaz Bhat(Coordina tor)",
+    "contactNo": "9596361871",
+    "email": "principal@islamiacollege.edu.in",
+    "seatingCapacity": 400
+  },
+  {
+    "sNo": 22,
+    "centreCode": 122,
+    "name": "Gandhi Memorial Collage, Srinagar",
+    "address": "Shamswari, Srinagar, Jammu and Kashmir 190002",
+    "hoiName": "",
+    "contactNo": "9419021926",
+    "email": "principalgmc1@gmail.com",
+    "seatingCapacity": 216
+  },
+  {
+    "sNo": 23,
+    "centreCode": 123,
+    "name": "Vishwa Bharati Women’s College, Rainawari",
+    "address": "Karapura, Rainawari, Srinagar, Jammu and Kashmir 190018",
+    "hoiName": "",
+    "contactNo": "9906177009",
+    "email": "principalvbc@hotmail.com",
+    "seatingCapacity": 200
+  },
+  {
+    "sNo": 24,
+    "centreCode": 124,
+    "name": "Spring Buds Higher Secondary School, Ompora",
+    "address": "near the Railway Flyover on Nakara Main Road, Ompora, Budgam, Jammu and Kashmir, 191111",
+    "hoiName": "",
+    "contactNo": "9469074484",
+    "email": "",
+    "seatingCapacity": 840
+  },
+  {
+    "sNo": 25,
+    "centreCode": 125,
+    "name": "Crescent Public School",
+    "address": "Chinar Avenue, near Naseem Bagh, Hazratbal, Srinagar, Jammu and Kashmir (Pin: 190006",
+    "hoiName": "",
+    "contactNo": "8803914713",
+    "email": "",
+    "seatingCapacity": 1024
+  },
+  {
+    "sNo": 26,
+    "centreCode": 126,
+    "name": "Tyndale Biscoe & Mallinson School,",
+    "address": "Sheikh Bagh Srinagar , Jammu & Kashmir 190001",
+    "hoiName": "Mabel Yonzon",
+    "contactNo": "9419009331",
+    "email": "principal@tbmes.org",
+    "seatingCapacity": 432
+  }
+]

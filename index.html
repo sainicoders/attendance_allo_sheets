@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>High Court of Jammu &amp; Kashmir and Ladakh — Attendance Sheet</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.10/pdfmake.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.10/vfs_fonts.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+</head>
+<body>
+  <div class="page">
+    <header class="header">
+      <img src="assets/jammu-logo.png" alt="High Court of Jammu &amp; Kashmir and Ladakh" class="header-logo" />
+      <div class="header-text">
+        <p class="org-name">HIGH COURT OF<br />JAMMU &amp; KASHMIR<br />AND LADAKH</p>
+        <p class="subtitle">Exam Attendance Sheet Generator</p>
+      </div>
+    </header>
+
+    <main class="main">
+      <section class="card form-card">
+        <h2>Settings</h2>
+        <form id="settingsForm" onsubmit="return false;">
+          <div class="field">
+            <label for="center">Center</label>
+            <select id="center" required></select>
+          </div>
+
+          <div class="field">
+            <label for="room">Room / Packet</label>
+            <select id="room" required></select>
+          </div>
+
+          <div class="field">
+            <label for="examDate">Exam Date</label>
+            <select id="examDate" required></select>
+          </div>
+
+          <div class="field-row">
+            <div class="field">
+              <label for="cityCode">City Code</label>
+              <input type="text" id="cityCode" required />
+            </div>
+            <div class="field">
+              <label for="centerCode">Center Code</label>
+              <input type="text" id="centerCode" readonly />
+            </div>
+          </div>
+
+          <button type="button" id="downloadBtn" class="btn-primary">Download Attendance Sheet</button>
+          <button type="button" id="allocationBtn" class="btn-secondary">Download Room Allocation Sheet</button>
+        </form>
+        <p id="status" class="status">Initializing…</p>
+        <p id="notice" class="notice"></p>
+      </section>
+
+      <section class="card summary-card">
+        <h2>Summary</h2>
+        <div id="summary" class="summary">
+          <p>Select a center and room to see details.</p>
+        </div>
+      </section>
+    </main>
+
+  </div>
+
+  <script src="js/data.js?v=6"></script>
+  <script src="js/allocator.js?v=6"></script>
+  <script src="js/pdf-generator.js?v=6"></script>
+  <script src="js/room-allocation-pdf.js?v=6"></script>
+  <script src="js/app.js?v=6"></script>
+</body>
+</html>

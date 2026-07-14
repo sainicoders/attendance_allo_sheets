@@ -1,0 +1,268 @@
+[
+  {
+    "sNo": 1,
+    "centreCode": 201,
+    "name": "Govt. Girls Hr. Secondary School",
+    "seatingCapacity": 576,
+    "address": "Mubarak Mandi, Panjtirthi Chaugan, Panjtirthi, Jammu, 180001"
+  },
+  {
+    "sNo": 2,
+    "centreCode": 202,
+    "name": "Govt. Boys Hr. Secondary School, Gandhi Nagar",
+    "seatingCapacity": 480,
+    "address": "Apsara Rd, near Dusshera Ground, Gandhi Nagar, Jammu, 180004"
+  },
+  {
+    "sNo": 3,
+    "centreCode": 203,
+    "name": "Govt. Girls Hr. Secondary School, Rehari",
+    "seatingCapacity": 360,
+    "address": "Rehari Road, Rehari Colony, Jammu, 180005"
+  },
+  {
+    "sNo": 4,
+    "centreCode": 204,
+    "name": "Govt. Hari Singh Hr. Secondary School",
+    "seatingCapacity": 264,
+    "address": "Residency Road, Prem Nagar, Old Heritage City, Jammu, 180001"
+  },
+  {
+    "sNo": 5,
+    "centreCode": 205,
+    "name": "Govt. Girls Model Hr. Secondary School",
+    "seatingCapacity": 504,
+    "address": "Main Bazar, Kandoli, Nagrota, Jammu, near BSNL Exchange, 181221"
+  },
+  {
+    "sNo": 6,
+    "centreCode": 206,
+    "name": "Govt. Model Hr. Secondary School, Domana",
+    "seatingCapacity": 350,
+    "address": "Govt. Higher Secondary School Domana, Domana, Jammu, 181206"
+  },
+  {
+    "sNo": 7,
+    "centreCode": 207,
+    "name": "Govt. Hr. Secondary School, Sunjwan",
+    "seatingCapacity": 264,
+    "address": "Govt. Model Hr. Sec. School, Sunjwan, Jammu, 180011"
+  },
+  {
+    "sNo": 8,
+    "centreCode": 208,
+    "name": "Delhi Public School Residency Road Jammu, Near Hotel Savoy Shahidi Chowk, Jammu",
+    "seatingCapacity": 360,
+    "address": "Maharaja Hari Singh Marg, Residency Road, Prem Nagar, Old Heritage City, Jammu, 180001"
+  },
+  {
+    "sNo": 9,
+    "centreCode": 209,
+    "name": "Model Academy B C Road Jammu",
+    "seatingCapacity": 408,
+    "address": "B.C Road, Resham Ghar Colony, Jammu, 180016"
+  },
+  {
+    "sNo": 10,
+    "centreCode": 210,
+    "name": "Saint Xavier Convent School Barnai, Main Road Barnai Near Kangra Fort",
+    "seatingCapacity": 476,
+    "address": "Barnai, Dina Nagar, Upper Barnai, Jammu, 181205"
+  },
+  {
+    "sNo": 11,
+    "centreCode": 211,
+    "name": "G.D.Goenka Public School, Gajansoo Marh Road, Opp. Panchayat Ghar Nagbani",
+    "seatingCapacity": 480,
+    "address": "Nagbani Panchayat Ghar Road, Thathar, Gajansoo Marh, Jammu, 180002"
+  },
+  {
+    "sNo": 12,
+    "centreCode": 212,
+    "name": "Vishav Bharti Public Higher Secondary School, Akalpur Morh, Udhaywala, Near Rama Krishna Mission",
+    "seatingCapacity": 400,
+    "address": "Akhnoor Road, Manorama Vihar, Paloura, Jammu, 180018"
+  },
+  {
+    "sNo": 13,
+    "centreCode": 213,
+    "name": "Jodhamal Public School",
+    "seatingCapacity": 432,
+    "address": "Bye Pass Road Channi, Near Ankur Maitrika HospitalSainik Colony, Jammu, 180011"
+  },
+  {
+    "sNo": 14,
+    "centreCode": 214,
+    "name": "R M Public School",
+    "seatingCapacity": 500,
+    "address": "Sainik Colony, Chowadhi Near Mangotra Dev Sathan Chowadhi JammuJammu, 180011"
+  },
+  {
+    "sNo": 15,
+    "centreCode": 215,
+    "name": "Doon International School",
+    "seatingCapacity": 500,
+    "address": "Doon International School Road, Near Rawri Talab Masjid ,Chowadhi, Jammu, 180011"
+  },
+  {
+    "sNo": 16,
+    "centreCode": 216,
+    "name": "International Delhi Public School, Matador Stand Sunjwan, Near Govt. Hr. Sec. School, Sunjwan",
+    "seatingCapacity": 360,
+    "address": "Matador Stand, Bathindi, Sunjwan Road, Sunjwan, Jammu, 181152"
+  },
+  {
+    "sNo": 17,
+    "centreCode": 217,
+    "name": "Shiksha Niketan Senior Secondary School Jeevan Nagar, Opp. Industrial Area Digiana",
+    "seatingCapacity": 500,
+    "address": "Near Shiksha Niketan School, Digiana, Jeevan Nagar, Jammu, 180010"
+  },
+  {
+    "sNo": 18,
+    "centreCode": 218,
+    "name": "Wazir Janki Nath Memorial Higher Secondary Rani Bagh, Near Airport",
+    "seatingCapacity": 432,
+    "address": "Rani Bagh, Old Sathwari, Jammu, 180003"
+  },
+  {
+    "sNo": 19,
+    "centreCode": 219,
+    "name": "Brigadier Khuda Bakash Public Higher Secondary School Gujjar Colony Bye Pass Road Jammu, Opp. Bachitter Complex",
+    "seatingCapacity": 450,
+    "address": "Gujjar Colony, Bypass, opposite Bachittar Complex, Sunjwan, Jammu, 180016"
+  },
+  {
+    "sNo": 20,
+    "centreCode": 220,
+    "name": "International Daily Rising School Chowadi, Sainik Colony Jammu",
+    "seatingCapacity": 500,
+    "address": "Near The Grand Jammu, Sainik Colony, Chowadhi, Jammu, 180011"
+  },
+  {
+    "sNo": 21,
+    "centreCode": 221,
+    "name": "Govt. Degree College Akhnoor",
+    "seatingCapacity": 432,
+    "address": "GDC Akhnoor, Vill. Palwan, Bandral Kalan, Akhnoor, Jammu, 181201"
+  },
+  {
+    "sNo": 22,
+    "centreCode": 222,
+    "name": "GGM Science College Canal Road Jammu",
+    "seatingCapacity": 997,
+    "address": "Canal Road, Nawabad, Jammu, 180016"
+  },
+  {
+    "sNo": 23,
+    "centreCode": 223,
+    "name": "SPMR Commerce College Canal Road Jammu",
+    "seatingCapacity": 600,
+    "address": "Govt. SPMR College of Commerce, Canal Road, Jammu, 180002"
+  },
+  {
+    "sNo": 24,
+    "centreCode": 224,
+    "name": "Stephens International Public School Jammu",
+    "seatingCapacity": 500,
+    "address": "Airport Road, Miran Sahib, Jammu, 180009"
+  },
+  {
+    "sNo": 25,
+    "centreCode": 225,
+    "name": "Sri Guru Govind Singh Public Hr Sec School Kunjawani Talab Jammu",
+    "seatingCapacity": 576,
+    "address": "NH 1A, Gangayal, Kunjwani Talab, Barian, Jammu, 180010"
+  },
+  {
+    "sNo": 26,
+    "centreCode": 226,
+    "name": "ST.Peter's High School, B.C. Road Jammu",
+    "seatingCapacity": 500,
+    "address": "BC Road, Jewel Chowk, Resham Ghar Colony, Jammu, 180016"
+  },
+  {
+    "sNo": 27,
+    "centreCode": 227,
+    "name": "Galaxy College Of Education, Sainik Colony, Jammu",
+    "seatingCapacity": 400,
+    "address": "Galaxy Enclave, Sector E, Sainik Colony, Jammu, 180011"
+  },
+  {
+    "sNo": 28,
+    "centreCode": 228,
+    "name": "Sacred Heart College Of Education Azad Nagar, Paloura, Near Ladakhi Girls Hostal Lower Roop Nagar",
+    "seatingCapacity": 500,
+    "address": "Paloura Top, Paloura, Jammu, 181121"
+  },
+  {
+    "sNo": 29,
+    "centreCode": 229,
+    "name": "Jammu Institute Of Ayurveda And Research",
+    "seatingCapacity": 567,
+    "address": "Near Trikuta Group Of Colleges, Nardani Bajwan, Bantalab, Jammu, 181123"
+  },
+  {
+    "sNo": 30,
+    "centreCode": 230,
+    "name": "Trikuta Group Of College",
+    "seatingCapacity": 432,
+    "address": "Nardani Bajwan, Jammu, 181123"
+  },
+  {
+    "sNo": 31,
+    "centreCode": 231,
+    "name": "Jammu University (Old Campus Canal Road)",
+    "seatingCapacity": 700,
+    "address": "Jammu University Old Campus, Nawabad, Canal Road, Jammu, 180016"
+  },
+  {
+    "sNo": 32,
+    "centreCode": 232,
+    "name": "GCW Parade Jammu Centre-A",
+    "seatingCapacity": 480,
+    "address": "Govt. College for Women, Parade Ground, Pakki Dhaki, Parade, Jammu, 180001"
+  },
+  {
+    "sNo": 33,
+    "centreCode": 233,
+    "name": "GCW Parade Jammu Centre -B",
+    "seatingCapacity": 480,
+    "address": "Govt. College for Women, Parade Ground, Pakki Dhaki, Parade, Jammu, 180001"
+  },
+  {
+    "sNo": 34,
+    "centreCode": 234,
+    "name": "Govt. Degree College Paloura",
+    "seatingCapacity": 480,
+    "address": "Govt. Degree College Jammu, Mishriwala, Paloura, Jammu, 180018"
+  },
+  {
+    "sNo": 35,
+    "centreCode": 235,
+    "name": "Kotwal National Institute Of Teaching Bharat Nagar Talab Tillo, Near Kamla Palace Road Talab Tillo, Jammu",
+    "seatingCapacity": 636,
+    "address": "B-11, Bharat Nagar, Talab Tillo, Kamla Palace Road, Rajpura Chungi, Jammu, 180002"
+  },
+  {
+    "sNo": 36,
+    "centreCode": 236,
+    "name": "Govt. Girls Hr. Secondary School, Canal Road",
+    "seatingCapacity": 384,
+    "address": "Canal Road, Jammu, 180016"
+  },
+  {
+    "sNo": 37,
+    "centreCode": 237,
+    "name": "Kendrya Vidyalaya, Miran Sahib",
+    "seatingCapacity": 240,
+    "address": "Kendriya Vidyalaya Miran Sahib, RS Pura Road, Jammu, 181101"
+  },
+  {
+    "sNo": 0,
+    "centreCode": 0,
+    "name": "Total Count",
+    "seatingCapacity": 17500,
+    "address": ""
+  }
+]

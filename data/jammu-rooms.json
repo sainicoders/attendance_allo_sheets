@@ -1,0 +1,2733 @@
+[
+  {
+    "sNo": 1,
+    "name": "GOVT GIRLS HR.SECONDARY SCHOOL MUBARAK MANDI JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "ARTS",
+        "floor": "GROUND",
+        "room": "MAIN HALL",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 2,
+        "block": "SCIENCE",
+        "floor": "FIRST",
+        "room": "36",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "SCIENCE",
+        "floor": "FIRST",
+        "room": "35",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "SCIENCE",
+        "floor": "FIRST",
+        "room": "34",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 5,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "33",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "32",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "31",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "30",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "29",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "SCIENCE",
+        "floor": "GROUND",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "SCIENCE",
+        "floor": "GROUND",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "SCIENCE",
+        "floor": "GROUND",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "COMMERCE",
+        "floor": "GROUND",
+        "room": "CB-1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "COMMERCE",
+        "floor": "GROUND",
+        "room": "CB-2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "COMMERCE",
+        "floor": "GROUND",
+        "room": "CB-3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "COMMERCE",
+        "floor": "FIRST",
+        "room": "CB-4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 17,
+        "block": "COMMERCE",
+        "floor": "FIRST",
+        "room": "CB-5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 576
+  },
+  {
+    "sNo": 2,
+    "name": "GOVT BOYS HR SEC SCHOOL GANDHI NAGAR JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "SCIENCE",
+        "floor": "Ist",
+        "room": "24*4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "ARTS",
+        "floor": "Ist",
+        "room": "24*2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "COMMERCE",
+        "floor": "Ist",
+        "room": "24*3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 4,
+        "block": "9TH",
+        "floor": "GROUND",
+        "room": "24*3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 5,
+        "block": "10TH",
+        "floor": "GROUND",
+        "room": "24*2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "HALL",
+        "floor": "GROUND",
+        "room": "single Hall",
+        "capacity": 144,
+        "capacityRaw": "144"
+      }
+    ],
+    "totalCapacity": 480
+  },
+  {
+    "sNo": 3,
+    "name": "GOVT GIRLS HR SECONDARY SCHOOL REHARI",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "HALL-A",
+        "room": "24*2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "HALL-B",
+        "room": "24*3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "GROUND FLOOR",
+        "room": "24*10",
+        "capacity": 240,
+        "capacityRaw": "240"
+      }
+    ],
+    "totalCapacity": 360
+  },
+  {
+    "sNo": 4,
+    "name": "GOVT HARI SINGH HR SECONDARY SCHOOL RESIDENCE ROAD JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "1",
+        "room": "24*3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "1",
+        "room": "24*6",
+        "capacity": 144,
+        "capacityRaw": "144"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "",
+        "room": "HALL",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 264
+  },
+  {
+    "sNo": 5,
+    "name": "GOVT GIRLS MODEL HR.SECONDARY SCHOOL,KANDOLI NAGROTA JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "ARTS(A)",
+        "floor": "1ST",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "ARTS(A)",
+        "floor": "1ST",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "ARTS(A)",
+        "floor": "1ST",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "ARTS(A)",
+        "floor": "1ST",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "ARTS(A)",
+        "floor": "1ST",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "ARTS(A)",
+        "floor": "1ST",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "ARTS(A)",
+        "floor": "2ND",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "ARTS(A)",
+        "floor": "2ND",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "ARTS(A)",
+        "floor": "2ND",
+        "room": "12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "ARTS(A)",
+        "floor": "2ND",
+        "room": "13",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "ARTS(A)",
+        "floor": "2ND",
+        "room": "14",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "ARTS(A)",
+        "floor": "2ND",
+        "room": "15",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "SCIENCE(B)",
+        "floor": "2ND",
+        "room": "16",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "SCIENCE(B)",
+        "floor": "2ND",
+        "room": "HALL",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 15,
+        "block": "SCIENCE(B)",
+        "floor": "2ND",
+        "room": "17",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "SCIENCE(B)",
+        "floor": "2ND",
+        "room": "18",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "SCIENCE(C)",
+        "floor": "1ST",
+        "room": "19",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 18,
+        "block": "SCIENCE(C)",
+        "floor": "1ST",
+        "room": "20",
+        "capacity": 36,
+        "capacityRaw": "36"
+      }
+    ],
+    "totalCapacity": 504
+  },
+  {
+    "sNo": 6,
+    "name": "GOVT MODEL HR SECONDARY SCHOOL DOMANA JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "BLOCK-A",
+        "floor": "GROUND",
+        "room": "24*4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "BLOCK-B",
+        "floor": "GROUND",
+        "room": "24*7",
+        "capacity": 168,
+        "capacityRaw": "168"
+      },
+      {
+        "sNo": 3,
+        "block": "BLOCK-C",
+        "floor": "GROUND",
+        "room": "HALL",
+        "capacity": 86,
+        "capacityRaw": "86"
+      }
+    ],
+    "totalCapacity": 350
+  },
+  {
+    "sNo": 7,
+    "name": "GOVT HR SEC SCHOOL SUNJWAN JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "1",
+        "floor": "1",
+        "room": "24*2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "2",
+        "floor": "2",
+        "room": "24*7",
+        "capacity": 168,
+        "capacityRaw": "168"
+      },
+      {
+        "sNo": 3,
+        "block": "3",
+        "floor": "1",
+        "room": "48*1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 264
+  },
+  {
+    "sNo": 8,
+    "name": "DELHI PUBLIC SCHOOL RESIDENCY ROAD JAMMU NEAR-HOTEL SAVOY SHAHIDI CHOWK JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "I",
+        "room": "24*15",
+        "capacity": 360,
+        "capacityRaw": "360"
+      }
+    ],
+    "totalCapacity": 360
+  },
+  {
+    "sNo": 9,
+    "name": "MODEL ACADEMY B.C ROAD JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "MAIN BLOCK",
+        "floor": "1",
+        "room": "24*8",
+        "capacity": 192,
+        "capacityRaw": "192"
+      },
+      {
+        "sNo": 2,
+        "block": "MAIN BLOCK",
+        "floor": "2",
+        "room": "24*7(NEED MORE SEATS)",
+        "capacity": 168,
+        "capacityRaw": "168"
+      }
+    ],
+    "totalCapacity": 405
+  },
+  {
+    "sNo": 10,
+    "name": "SAINT XAVIER CONVENT SSCHOL BARNAI MAIN ROAD BARNAI NEAR KANGRA FORT",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "A",
+        "floor": "1ST",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "A",
+        "floor": "1ST",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "A",
+        "floor": "1ST",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "A",
+        "floor": "1ST",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "A",
+        "floor": "1ST",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 18,
+        "block": "A",
+        "floor": "1ST",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 19,
+        "block": "A",
+        "floor": "1ST",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 20,
+        "block": "A",
+        "floor": "1ST",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 21,
+        "block": "A",
+        "floor": "1ST",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 22,
+        "block": "A",
+        "floor": "1ST",
+        "room": "10",
+        "capacity": 20,
+        "capacityRaw": "20"
+      }
+    ],
+    "totalCapacity": 476
+  },
+  {
+    "sNo": 11,
+    "name": "G.D GOENKA PUBLIC SCHOOL GAJANSOO MARH ROAD OPP.PANCHAYAT GHAR NAGBANI JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "SR.BLOCK",
+        "floor": "GROUND",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "13",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "14",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "15",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "16",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "SR.BLOCK",
+        "floor": "FIRST",
+        "room": "17",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 18,
+        "block": "SR.BLOCK",
+        "floor": "SECOND",
+        "room": "18",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 19,
+        "block": "SR.BLOCK",
+        "floor": "SECOND",
+        "room": "19",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 20,
+        "block": "SR.BLOCK",
+        "floor": "SECOND",
+        "room": "20",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 480
+  },
+  {
+    "sNo": 12,
+    "name": "VISHWA BHARTI PUBLIC HIGHER SECONDARY SCHOOL AKALPUR MORH UDHAYWALA NEAR RAMA KREISHNA MISSION",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "A",
+        "floor": "GROUND",
+        "room": "24*4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "A",
+        "floor": "1ST",
+        "room": "24*9",
+        "capacity": 216,
+        "capacityRaw": "216"
+      },
+      {
+        "sNo": 3,
+        "block": "B",
+        "floor": "1ST",
+        "room": "24+24+24+16 (4 ROOMS)",
+        "capacity": 88,
+        "capacityRaw": "88"
+      }
+    ],
+    "totalCapacity": 400
+  },
+  {
+    "sNo": 13,
+    "name": "JODHAMAL PUBLIC SCHHOL BYE PASS ROAD CHANNI NEAR ANKUR MAITRIKA HOSPITAL",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "1ST",
+        "floor": "1ST",
+        "room": "24*10",
+        "capacity": 240,
+        "capacityRaw": "240"
+      },
+      {
+        "sNo": 2,
+        "block": "2ND",
+        "floor": "2ND",
+        "room": "24*8",
+        "capacity": 192,
+        "capacityRaw": "192"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 14,
+    "name": "R.M PUBLIC SACHOOL SAINIK COLONY CHOWADHI NEAR MANGOTRA DEV SATHAN CHOWADHI JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "JAGAT",
+        "floor": "1",
+        "room": "24*7",
+        "capacity": 168,
+        "capacityRaw": "168"
+      },
+      {
+        "sNo": 2,
+        "block": "JAGAT",
+        "floor": "2",
+        "room": "24*5",
+        "capacity": 120,
+        "capacityRaw": "120"
+      },
+      {
+        "sNo": 3,
+        "block": "LAKSHAY",
+        "floor": "1",
+        "room": "24*6",
+        "capacity": 144,
+        "capacityRaw": "144"
+      },
+      {
+        "sNo": 4,
+        "block": "LAKSHAY",
+        "floor": "2",
+        "room": "24+24+20(total 3 rooms)",
+        "capacity": 68,
+        "capacityRaw": "68"
+      }
+    ],
+    "totalCapacity": 500
+  },
+  {
+    "sNo": 15,
+    "name": "DOON INTERNATIONAL SCHOOL CHOWADHI JAMMU NEAR REWARI TALAB MASJID",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "BLOCK-1",
+        "floor": "3",
+        "room": "24*21",
+        "capacity": 504,
+        "capacityRaw": "504"
+      }
+    ],
+    "totalCapacity": 504
+  },
+  {
+    "sNo": 16,
+    "name": "INTERNATIONAL DELHI PUBLIC SCHOOL MATADOR STAND SUNJWAN NEAR GOVT HR SEC SCHOOL SUNJWAN JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "1ST",
+        "room": "8*24",
+        "capacity": 192,
+        "capacityRaw": "192"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "2ND",
+        "room": "7*24",
+        "capacity": 168,
+        "capacityRaw": "168"
+      }
+    ],
+    "totalCapacity": 360
+  },
+  {
+    "sNo": 17,
+    "name": "SHIKSHA NIKETAN SENIOR SECONDARY SCHOOL JEEVAN NAGAR OPP.INDUSTRIAL AREA DIGIANA JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "3RD",
+        "room": "HALL-C",
+        "capacity": 192,
+        "capacityRaw": "192"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "3RD",
+        "room": "ROOM-54",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "3RD",
+        "room": "53",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "3RD",
+        "room": "51",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "",
+        "floor": "3RD",
+        "room": "50",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "",
+        "floor": "3RD",
+        "room": "48",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "",
+        "floor": "3RD",
+        "room": "47",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "",
+        "floor": "3RD",
+        "room": "46",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "",
+        "floor": "2ND",
+        "room": "HALL-A",
+        "capacity": 140,
+        "capacityRaw": "140"
+      }
+    ],
+    "totalCapacity": 500
+  },
+  {
+    "sNo": 18,
+    "name": "WAZIR JANKI NATH MEMORIAL HIGHER SECONDARY RANI BAGH NEAR AIRPORT",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "1ST",
+        "room": "HALL",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "",
+        "floor": "GROUND",
+        "room": "R-7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-13",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "",
+        "floor": "1ST",
+        "room": "R-14",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 19,
+    "name": "BRIGADIER KHUDA BAKSH PUBLIC HIGHER SECOINDARY SCHOOL GUJJAR COLONY BYE PASS ROAD JAMMU OPP.BACHITTER COMPLEX",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "1",
+        "floor": "1ST",
+        "room": "24*4+1*18 (total 5 Rooms)",
+        "capacity": 114,
+        "capacityRaw": "114"
+      },
+      {
+        "sNo": 2,
+        "block": "2",
+        "floor": "1ST",
+        "room": "24*5",
+        "capacity": 120,
+        "capacityRaw": "120"
+      },
+      {
+        "sNo": 3,
+        "block": "3",
+        "floor": "3RD",
+        "room": "24*3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "HALL",
+        "room": "48*3",
+        "capacity": 144,
+        "capacityRaw": "144"
+      }
+    ],
+    "totalCapacity": 450
+  },
+  {
+    "sNo": 20,
+    "name": "INTERNATIONAL DAILY RAISING SCHOOL CHOWADI,SAINIK COLONY JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "1",
+        "floor": "GROUND",
+        "room": "24*12",
+        "capacity": 288,
+        "capacityRaw": "288"
+      },
+      {
+        "sNo": 2,
+        "block": "1",
+        "floor": "FIRST",
+        "room": "24*4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 3,
+        "block": "1",
+        "floor": "SECOND",
+        "room": "24*4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 4,
+        "block": "1",
+        "floor": "3RD",
+        "room": "24*1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 504
+  },
+  {
+    "sNo": 21,
+    "name": "GOVT DEGREE COLLEGE AKHNOOR JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "OLD BLOCK",
+        "floor": "GROUND",
+        "room": "1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "OLD BLOCK",
+        "floor": "GROUND",
+        "room": "2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "OLD BLOCK",
+        "floor": "GROUND",
+        "room": "3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "OLD BLOCK",
+        "floor": "GROUND",
+        "room": "LT",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "OLD BLOCK",
+        "floor": "GROUND",
+        "room": "SCR",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "OLD BLOCK",
+        "floor": "GROUND",
+        "room": "BLR",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 7,
+        "block": "OLD BLOCK",
+        "floor": "1ST",
+        "room": "4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 8,
+        "block": "OLD BLOCK",
+        "floor": "1ST",
+        "room": "5",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 9,
+        "block": "OLD BLOCK",
+        "floor": "1ST",
+        "room": "6",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 22,
+    "name": "GGM SCIENCE COLLEGE CANAL ROAD JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "",
+        "room": "BLR",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "",
+        "room": "ZLR",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "",
+        "room": "NBLR",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "",
+        "room": "NH1",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 5,
+        "block": "",
+        "floor": "",
+        "room": "NH2",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 6,
+        "block": "",
+        "floor": "",
+        "room": "NH3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 7,
+        "block": "",
+        "floor": "",
+        "room": "OLD HALL",
+        "capacity": 168,
+        "capacityRaw": "168"
+      },
+      {
+        "sNo": 8,
+        "block": "",
+        "floor": "",
+        "room": "E1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "",
+        "floor": "",
+        "room": "E2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "",
+        "floor": "",
+        "room": "P2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "",
+        "floor": "",
+        "room": "A1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 12,
+        "block": "",
+        "floor": "",
+        "room": "A2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 13,
+        "block": "",
+        "floor": "",
+        "room": "A3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 14,
+        "block": "",
+        "floor": "",
+        "room": "A4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 15,
+        "block": "",
+        "floor": "",
+        "room": "AUDITORIUM",
+        "capacity": 192,
+        "capacityRaw": "192"
+      },
+      {
+        "sNo": 16,
+        "block": "",
+        "floor": "",
+        "room": "PRE FAB 1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "",
+        "floor": "",
+        "room": "PRE FAB 2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 1008
+  },
+  {
+    "sNo": 23,
+    "name": "SPMR COMMERCE COLLEGE CANAL ROAD JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "SPORTS",
+        "floor": "1ST",
+        "room": "12",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "SPORTS",
+        "floor": "1ST",
+        "room": "13",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "SPORTS",
+        "floor": "1ST",
+        "room": "14",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 4,
+        "block": "SPORTS",
+        "floor": "1ST",
+        "room": "15",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 5,
+        "block": "SPORTS",
+        "floor": "1ST",
+        "room": "16",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 6,
+        "block": "SPORTS",
+        "floor": "1ST",
+        "room": "17",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "21",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 8,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "22",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 9,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "23",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 10,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "24",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 11,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "25",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 12,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "26",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 13,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "27",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 14,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "28",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 15,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "29",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "ADMIN",
+        "floor": "1ST",
+        "room": "30",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 600
+  },
+  {
+    "sNo": 24,
+    "name": "STEPHENS INTERNATIONAL PUBLIC SCHOOL JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "3",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "3",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "3",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "3",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "",
+        "floor": "3",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "",
+        "floor": "3",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "",
+        "floor": "3",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "",
+        "floor": "3",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "",
+        "floor": "3",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "",
+        "floor": "3",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "",
+        "floor": "3",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "",
+        "floor": "3",
+        "room": "12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "",
+        "floor": "3",
+        "room": "13",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "",
+        "floor": "4",
+        "room": "14",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "",
+        "floor": "4",
+        "room": "15",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "",
+        "floor": "4",
+        "room": "16",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "",
+        "floor": "4",
+        "room": "17",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 18,
+        "block": "",
+        "floor": "4",
+        "room": "18",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 25,
+    "name": "SHRI GURU GOBIND SINGH PUBLIC HR SEC SCHOOL IKUNJWANI TALAB JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "",
+        "room": "24*24",
+        "capacity": 576,
+        "capacityRaw": "576"
+      }
+    ],
+    "totalCapacity": 576
+  },
+  {
+    "sNo": 26,
+    "name": "ST.PETER HIGH SCHOOL B.C ROAD JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "1",
+        "floor": "3",
+        "room": "20",
+        "capacity": 480,
+        "capacityRaw": "24*20"
+      }
+    ],
+    "totalCapacity": 480
+  },
+  {
+    "sNo": 27,
+    "name": "GALAXY COLLEGE OF EDUCATION,SAINIK COLONY JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "SCIENCE COLLEGE",
+        "floor": "GROUND",
+        "room": "1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "SCIENCE COLLEGE",
+        "floor": "GROUND",
+        "room": "2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "SCIENCE COLLEGE",
+        "floor": "GROUND",
+        "room": "3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "SCIENCE COLLEGE",
+        "floor": "GROUND",
+        "room": "4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "SCIENCE COLLEGE",
+        "floor": "1",
+        "room": "5",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "SCIENCE COLLEGE",
+        "floor": "1",
+        "room": "6",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 7,
+        "block": "SCIENCE COLLEGE",
+        "floor": "1",
+        "room": "7",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 8,
+        "block": "SCIENCE COLLEGE",
+        "floor": "1",
+        "room": "HALL",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 9,
+        "block": "SCIENCE COLLEGE",
+        "floor": "1",
+        "room": "HALL",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 408
+  },
+  {
+    "sNo": 28,
+    "name": "SACRED HEART COLLEGE OF EDUCATION AZAD NAGAR PALOURA NEAR LADAKHI IRLS HOSTEL LOWER ROOP NAGAR JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "EDUCATION",
+        "floor": "1",
+        "room": "2*48",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "EDUCATION",
+        "floor": "2",
+        "room": "5*48",
+        "capacity": 240,
+        "capacityRaw": "240"
+      },
+      {
+        "sNo": 3,
+        "block": "EDUCATION",
+        "floor": "3",
+        "room": "7*24",
+        "capacity": 168,
+        "capacityRaw": "168"
+      }
+    ],
+    "totalCapacity": 504
+  },
+  {
+    "sNo": 29,
+    "name": "JAMMU INSTITUTE OF AYYURVEDA AND RESEARCH",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "AYURVEDA",
+        "floor": "1ST",
+        "room": "1 AND 2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "AYURVEDA",
+        "floor": "1ST",
+        "room": "3 AND 4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "AYURVEDA",
+        "floor": "1ST",
+        "room": "5 AND 6",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "AYURVEDA",
+        "floor": "2ND FLOOR",
+        "room": "7 AND 8",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "AYURVEDA",
+        "floor": "2ND FLOOR",
+        "room": "9 AND 10",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "AYURVEDA",
+        "floor": "2ND FLOOR",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "AYURVEDA",
+        "floor": "2ND FLOOR",
+        "room": "12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "AYURVEDA",
+        "floor": "2ND FLOOR",
+        "room": "13",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "AYURVEDA",
+        "floor": "2ND FLOOR",
+        "room": "14",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "AYURVEDA",
+        "floor": "3RD FLOOR",
+        "room": "15",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 1,
+        "block": "PHARMACY",
+        "floor": "1ST",
+        "room": "16 AND 17",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "PHARMACY",
+        "floor": "1ST",
+        "room": "18,19 AND 20",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 3,
+        "block": "PHARMACY",
+        "floor": "1ST",
+        "room": "21,22 AND 23",
+        "capacity": 72,
+        "capacityRaw": "72"
+      }
+    ],
+    "totalCapacity": 576
+  },
+  {
+    "sNo": 30,
+    "name": "TRIKUTA GROUP OF COLLEGE",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "2 AND 3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "13 AND 14",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 13,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "15",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "16",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "17",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "BLOCK-1",
+        "floor": "1ST",
+        "room": "18",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 31,
+    "name": "JAMMU UNIVERSITY ( OLD CAMPUS CANAL ROAD )",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "EXAMINATIN HALL",
+        "floor": "GROUND",
+        "room": "1",
+        "capacity": 100,
+        "capacityRaw": "100"
+      },
+      {
+        "sNo": 2,
+        "block": "EXAMINATIN HALL",
+        "floor": "GROUND",
+        "room": "2",
+        "capacity": 100,
+        "capacityRaw": "100"
+      },
+      {
+        "sNo": 3,
+        "block": "EXAMINATIN HALL",
+        "floor": "1ST",
+        "room": "HALL 3 AND CONTROL ROOM",
+        "capacity": 100,
+        "capacityRaw": "100"
+      },
+      {
+        "sNo": 4,
+        "block": "EXAMINATIN HALL",
+        "floor": "2ND",
+        "room": "4",
+        "capacity": 100,
+        "capacityRaw": "100"
+      },
+      {
+        "sNo": 5,
+        "block": "EXAMINATIN HALL",
+        "floor": "2ND",
+        "room": "5",
+        "capacity": 100,
+        "capacityRaw": "100"
+      },
+      {
+        "sNo": 6,
+        "block": "EXAMINATIN HALL",
+        "floor": "3RD",
+        "room": "6",
+        "capacity": 100,
+        "capacityRaw": "100"
+      },
+      {
+        "sNo": 7,
+        "block": "EXAMINATIN HALL",
+        "floor": "3RD",
+        "room": "7",
+        "capacity": 100,
+        "capacityRaw": "100"
+      }
+    ],
+    "totalCapacity": 700
+  },
+  {
+    "sNo": 32,
+    "name": "GCW PARADE JAMMU CENTER-A",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "NBR",
+        "floor": "GROUND",
+        "room": "C-10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "NBR",
+        "floor": "FIRST",
+        "room": "C-11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "NBR",
+        "floor": "FIRST",
+        "room": "C-12",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "NBR",
+        "floor": "FIRST",
+        "room": "C-13",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "NBR",
+        "floor": "FIRST",
+        "room": "C-14",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "NBR",
+        "floor": "FIRST",
+        "room": "C-15",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "NBR",
+        "floor": "FIRST",
+        "room": "C-18",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "NBR",
+        "floor": "2ND",
+        "room": "C-19",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 18,
+        "block": "NBR",
+        "floor": "2ND",
+        "room": "C-20",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 19,
+        "block": "NBR",
+        "floor": "2ND",
+        "room": "C-21",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 20,
+        "block": "NBR",
+        "floor": "2ND",
+        "room": "C-22",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 480
+  },
+  {
+    "sNo": 33,
+    "name": "GCW PARADE JAMMU CENTER-B",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "BASEMENT",
+        "floor": "GROUND",
+        "room": "A",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "BASEMENT",
+        "floor": "GROUND",
+        "room": "B",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 3,
+        "block": "BASEMENT",
+        "floor": "GROUND",
+        "room": "C",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 4,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "1",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 5,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "2",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 6,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "3",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 7,
+        "block": "ARTS",
+        "floor": "FIRST",
+        "room": "4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 480
+  },
+  {
+    "sNo": 34,
+    "name": "GOVT DEGREE COLLEGE PALOURA",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "GROUND",
+        "room": "1",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "GROUND",
+        "room": "2",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "GROUND",
+        "room": "3",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "GROUND",
+        "room": "4",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 5,
+        "block": "",
+        "floor": "1ST",
+        "room": "5",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 6,
+        "block": "",
+        "floor": "1ST",
+        "room": "6",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 7,
+        "block": "",
+        "floor": "1ST",
+        "room": "7",
+        "capacity": 60,
+        "capacityRaw": "60"
+      },
+      {
+        "sNo": 8,
+        "block": "",
+        "floor": "1ST",
+        "room": "8",
+        "capacity": 60,
+        "capacityRaw": "60"
+      }
+    ],
+    "totalCapacity": 480
+  },
+  {
+    "sNo": 35,
+    "name": "KOTWAL NATIONAL INSTITUTE OF TEACHING B-ii BHARAT NAGAR TALAB TILLO,NEAR- KAMLA PALACE ROAD TALAB TILLO JAMMU",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "BLOCK-A",
+        "floor": "HALL",
+        "room": "HALL",
+        "capacity": 108,
+        "capacityRaw": "108"
+      },
+      {
+        "sNo": 2,
+        "block": "BLOCK-A",
+        "floor": "",
+        "room": "1",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 3,
+        "block": "BLOCK-A",
+        "floor": "",
+        "room": "2",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 4,
+        "block": "BLOCK-A",
+        "floor": "",
+        "room": "3",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 5,
+        "block": "BLOCK-A",
+        "floor": "",
+        "room": "4",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 6,
+        "block": "BLOCK-A",
+        "floor": "",
+        "room": "5",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 7,
+        "block": "BLOCK-A",
+        "floor": "",
+        "room": "6",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 8,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "7",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 9,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "8",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 10,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "9",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 11,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "10",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 12,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "11",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 13,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "12",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 14,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "13",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 15,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "14",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 16,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "15",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 17,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "16",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 18,
+        "block": "BLOCK-B",
+        "floor": "",
+        "room": "17",
+        "capacity": 30,
+        "capacityRaw": "30"
+      },
+      {
+        "sNo": 19,
+        "block": "",
+        "floor": "",
+        "room": "18",
+        "capacity": 18,
+        "capacityRaw": "18"
+      }
+    ],
+    "totalCapacity": 636
+  },
+  {
+    "sNo": 36,
+    "name": "GOVT GIRLS HR SEC SCHOOL CANAL ROAD",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "HALL",
+        "floor": "1",
+        "room": "1",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "ARTS",
+        "floor": "1",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "SCIENCE",
+        "floor": "2",
+        "room": "24*7",
+        "capacity": 168,
+        "capacityRaw": "168"
+      },
+      {
+        "sNo": 4,
+        "block": "COMMERCE",
+        "floor": "2",
+        "room": "24*4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      }
+    ],
+    "totalCapacity": 384
+  },
+  {
+    "sNo": 37,
+    "name": "KENDRYA VIDYALA MIRAN SAHIB",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "2ND",
+        "room": "24*10",
+        "capacity": 240,
+        "capacityRaw": "240"
+      }
+    ],
+    "totalCapacity": 240
+  }
+]

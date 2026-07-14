@@ -1,0 +1,2736 @@
+[
+  {
+    "sNo": 1,
+    "name": "Govt . Boys. Hr. Sec.School Rawalpora(Barzulla)",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Old Block",
+        "floor": "1st",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "New block",
+        "floor": "Ground Floor & 1st",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 240
+  },
+  {
+    "sNo": 2,
+    "name": "Govt . Boys. Hr. Sec.School Soura Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Main",
+        "floor": "Ground Floor",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24-24"
+      },
+      {
+        "sNo": 2,
+        "block": "Main 1t floor",
+        "floor": "1st",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24-24"
+      },
+      {
+        "sNo": 3,
+        "block": "Science",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24-24"
+      },
+      {
+        "sNo": 4,
+        "block": "Science 1st floor",
+        "floor": "1st",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24-24"
+      }
+    ],
+    "totalCapacity": 288
+  },
+  {
+    "sNo": 3,
+    "name": "Govt . Boys. Hr. Sec.School Jawahar Nagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Science",
+        "floor": "1st",
+        "room": "2",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 2,
+        "block": "Library",
+        "floor": "2nd",
+        "room": "1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "Arts",
+        "floor": "1st,2nd",
+        "room": "6",
+        "capacity": 144,
+        "capacityRaw": "144"
+      },
+      {
+        "sNo": 4,
+        "block": "Empathy",
+        "floor": "1st,2nd",
+        "room": "7",
+        "capacity": 240,
+        "capacityRaw": "240"
+      }
+    ],
+    "totalCapacity": 504
+  },
+  {
+    "sNo": 4,
+    "name": "Govt . Girls. Hr. Sec.School Soura Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Science",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "Science",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "Science",
+        "floor": "Ground Floor",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "Science",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "Science",
+        "floor": "1st",
+        "room": "5",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "Science",
+        "floor": "1st",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "Arts",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 8,
+        "block": "Arts",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 9,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 10,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 5,
+    "name": "Govt . Girls. Hr. Sec.School Khanyar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Arts-A",
+        "floor": "1st",
+        "room": "1st",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "Arts-A",
+        "floor": "2nd",
+        "room": "2nd",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "Auditorium",
+        "floor": "3rd",
+        "room": "3rd",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "Auditorium",
+        "floor": "4th",
+        "room": "4th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "Block -B",
+        "floor": "5th",
+        "room": "5th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "Block -B",
+        "floor": "6th",
+        "room": "6th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "Block -B",
+        "floor": "7th",
+        "room": "7th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "Block -B",
+        "floor": "8th",
+        "room": "8th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "Block-C",
+        "floor": "9th",
+        "room": "9th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "Block-C",
+        "floor": "10th",
+        "room": "10th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "Block-C",
+        "floor": "11th",
+        "room": "11th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "New Block",
+        "floor": "12th",
+        "room": "12th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "New Block",
+        "floor": "13th",
+        "room": "13th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "New Block",
+        "floor": "14th",
+        "room": "14th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "New Block",
+        "floor": "15th",
+        "room": "15th",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 360
+  },
+  {
+    "sNo": 6,
+    "name": "Abdul Ahad Azad Memorial Degree College, Bemina",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "5",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "6",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 7,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "7",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 8,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "8",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 9,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "9",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 10,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "10",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 11,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "11",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 12,
+        "block": "U-Block",
+        "floor": "Ground Floor",
+        "room": "12",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 576
+  },
+  {
+    "sNo": 7,
+    "name": "Govt . Girls. Hr. Sec.School Nawakdal, Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Secondary Block",
+        "floor": "2",
+        "room": "4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 2,
+        "block": "Adm Block",
+        "floor": "1",
+        "room": "3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 3,
+        "block": "Medical Block",
+        "floor": "2",
+        "room": "4",
+        "capacity": 96,
+        "capacityRaw": "96"
+      },
+      {
+        "sNo": 4,
+        "block": "Humanities Block -1",
+        "floor": "1",
+        "room": "2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "Humanities Block -2",
+        "floor": "1",
+        "room": "3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      }
+    ],
+    "totalCapacity": 384
+  },
+  {
+    "sNo": 8,
+    "name": "Govt . Girls Hr. Sec.School ,Sonwar srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Main",
+        "floor": "1st",
+        "room": "3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 2,
+        "block": "Main",
+        "floor": "2nd",
+        "room": "6",
+        "capacity": 144,
+        "capacityRaw": "144"
+      },
+      {
+        "sNo": 3,
+        "block": "Auditorium",
+        "floor": "1st",
+        "room": "1",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 4,
+        "block": "Arts And Craft",
+        "floor": "1st",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 312
+  },
+  {
+    "sNo": 9,
+    "name": "GHSS AMIRA KADAL",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Arts Blook",
+        "floor": "1st",
+        "room": "1,2,3",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 2,
+        "block": "Commerce Block",
+        "floor": "1,2",
+        "room": "HALL 2,IP LAB",
+        "capacity": 84,
+        "capacityRaw": "84"
+      },
+      {
+        "sNo": 3,
+        "block": "Science Block",
+        "floor": "1,2",
+        "room": "7,8,9 Hall 3",
+        "capacity": 156,
+        "capacityRaw": "156"
+      },
+      {
+        "sNo": 4,
+        "block": "Admistrative Block",
+        "floor": "1,2",
+        "room": "10,11,12",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 360
+  },
+  {
+    "sNo": 10,
+    "name": "Sir Syed memorial School",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Main 1",
+        "floor": "1st",
+        "room": "3",
+        "capacity": 144,
+        "capacityRaw": "144"
+      },
+      {
+        "sNo": 2,
+        "block": "Main 2",
+        "floor": "2nd",
+        "room": "5",
+        "capacity": 240,
+        "capacityRaw": "240"
+      },
+      {
+        "sNo": 3,
+        "block": "Main 3",
+        "floor": "3rd",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 408
+  },
+  {
+    "sNo": 11,
+    "name": "Boys Hr. Sec. School Budgam",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Old Block",
+        "floor": "2nd",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "Sec. Block",
+        "floor": "1st",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "New Block",
+        "floor": "2nd",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 408
+  },
+  {
+    "sNo": 12,
+    "name": "S.P Higher Secondary School",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Commerce",
+        "floor": "1st",
+        "room": "9",
+        "capacity": 216,
+        "capacityRaw": "216"
+      },
+      {
+        "sNo": 2,
+        "block": "Science",
+        "floor": "2nd",
+        "room": "9",
+        "capacity": 216,
+        "capacityRaw": "216"
+      }
+    ],
+    "totalCapacity": 432
+  },
+  {
+    "sNo": 13,
+    "name": "Govt. Girls Hr.Sec.School Budgam",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "New block",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24/24"
+      },
+      {
+        "sNo": 2,
+        "block": "New block",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24/24"
+      },
+      {
+        "sNo": 3,
+        "block": "Old Block",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24/24"
+      },
+      {
+        "sNo": 4,
+        "block": "Old Block",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24/24"
+      }
+    ],
+    "totalCapacity": 312
+  },
+  {
+    "sNo": 14,
+    "name": "BHSS HUMHAMA",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "New Building",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "New Building",
+        "floor": "2nd",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "New Building",
+        "floor": "3rd",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 240
+  },
+  {
+    "sNo": 15,
+    "name": "Srinagar Womens College Batpora Batpora, Zakura, Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Floor 1",
+        "floor": "1st",
+        "room": "LH1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "Floor 1",
+        "floor": "1st",
+        "room": "LH2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "Floor 1",
+        "floor": "1st",
+        "room": "LH3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "Floor 1",
+        "floor": "2nd",
+        "room": "LH4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "Floor 1",
+        "floor": "2nd",
+        "room": "LH5",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "Floor 1",
+        "floor": "2nd",
+        "room": "LH6",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 7,
+        "block": "Floor 1",
+        "floor": "2nd",
+        "room": "LH7",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 8,
+        "block": "Floor 1",
+        "floor": "3rd",
+        "room": "LH8",
+        "capacity": 48,
+        "capacityRaw": "48"
+      }
+    ],
+    "totalCapacity": 384
+  },
+  {
+    "sNo": 16,
+    "name": "University of kashmir",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "",
+        "floor": "",
+        "room": "CCPC",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 2,
+        "block": "",
+        "floor": "",
+        "room": "CCPC",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 3,
+        "block": "",
+        "floor": "",
+        "room": "CCPC",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 4,
+        "block": "",
+        "floor": "",
+        "room": "Department of English",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 5,
+        "block": "",
+        "floor": "",
+        "room": "Department of English",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 6,
+        "block": "",
+        "floor": "",
+        "room": "Department of Electronics",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "",
+        "floor": "",
+        "room": "Department of Electronics",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "",
+        "floor": "",
+        "room": "Department of Electronics",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "",
+        "floor": "",
+        "room": "Department of Electronics",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 11,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 12,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 13,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 14,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 15,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 16,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 17,
+        "block": "",
+        "floor": "",
+        "room": "Department of Education",
+        "capacity": 40,
+        "capacityRaw": "40"
+      },
+      {
+        "sNo": 18,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 19,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 20,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 21,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 44,
+        "capacityRaw": "44"
+      },
+      {
+        "sNo": 22,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 23,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 24,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 25,
+        "block": "",
+        "floor": "",
+        "room": "Top floor, Department of Education (Distance Education)",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 26,
+        "block": "",
+        "floor": "",
+        "room": "Department of Computer Science",
+        "capacity": 72,
+        "capacityRaw": "72"
+      },
+      {
+        "sNo": 27,
+        "block": "",
+        "floor": "",
+        "room": "Department of Chemistry",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 28,
+        "block": "",
+        "floor": "",
+        "room": "Department of Chemistry",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 29,
+        "block": "",
+        "floor": "",
+        "room": "Department of Management studies",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 30,
+        "block": "",
+        "floor": "",
+        "room": "Department of Management studies",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 31,
+        "block": "",
+        "floor": "",
+        "room": "Department of Management studies",
+        "capacity": 36,
+        "capacityRaw": "36"
+      },
+      {
+        "sNo": 32,
+        "block": "",
+        "floor": "",
+        "room": "Department of Management studies",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 33,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 34,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 35,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 36,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 37,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 38,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 39,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 40,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 41,
+        "block": "",
+        "floor": "",
+        "room": "Department of Law",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 42,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 43,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 44,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 45,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 46,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 47,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 48,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      }
+    ],
+    "totalCapacity": 1428
+  },
+  {
+    "sNo": 17,
+    "name": "NIT SRINAGAR ,J&K",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-01",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 2,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-02",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 3,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-03",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 4,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-04",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 5,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-05",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 6,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-06",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 7,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-07",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 8,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-08",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 9,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-09",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 10,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-10",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 11,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-11",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 12,
+        "block": "Academic",
+        "floor": "Ground",
+        "room": "L-14",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 13,
+        "block": "Academic",
+        "floor": "1st floor",
+        "room": "L-15",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 14,
+        "block": "Hi-Tech",
+        "floor": "Ground",
+        "room": "Hi-Tech 1",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 15,
+        "block": "Hi-Tech",
+        "floor": "Ground",
+        "room": "Hi-Tech 2",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 16,
+        "block": "Hi-Tech",
+        "floor": "1st floor",
+        "room": "Hi-Tech 3",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 17,
+        "block": "Hi-Tech",
+        "floor": "1st floor",
+        "room": "Hi-Tech 4",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 18,
+        "block": "Hi-Tech",
+        "floor": "1st floor",
+        "room": "Hi-Tech 5",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 19,
+        "block": "Hi-Tech",
+        "floor": "1st floor",
+        "room": "Hi-Tech 6",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 20,
+        "block": "Pre-Fab",
+        "floor": "Ground",
+        "room": "PF-02",
+        "capacity": 58,
+        "capacityRaw": "58"
+      },
+      {
+        "sNo": 21,
+        "block": "Pre-Fab",
+        "floor": "Ground",
+        "room": "PF-03",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 22,
+        "block": "Pre-Fab",
+        "floor": "Ground",
+        "room": "PF-04",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 23,
+        "block": "Pre-Fab",
+        "floor": "Ground",
+        "room": "PF-05",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 24,
+        "block": "Pre-Fab",
+        "floor": "Ground",
+        "room": "PF-06",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 25,
+        "block": "Pre-Fab",
+        "floor": "Ground",
+        "room": "PF-07",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 26,
+        "block": "",
+        "floor": "",
+        "room": "",
+        "capacity": 0,
+        "capacityRaw": ""
+      }
+    ],
+    "totalCapacity": 1210
+  },
+  {
+    "sNo": 18,
+    "name": "GOVT. MPML HIGHER SECONDARY SCHOOL",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Science",
+        "floor": "0",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "Science",
+        "floor": "1st",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "Commerce",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "Hall",
+        "floor": "0",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "Vocational",
+        "floor": "0",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "Arts",
+        "floor": "0",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 288
+  },
+  {
+    "sNo": 19,
+    "name": "GOVT. COLLEGE FOR WOMEN M.A ROAD SRINAGAR",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Arts",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 1458,
+        "capacityRaw": "27*54"
+      },
+      {
+        "sNo": 2,
+        "block": "Arts",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 2178,
+        "capacityRaw": "33*66"
+      },
+      {
+        "sNo": 3,
+        "block": "Arts",
+        "floor": "Ground Floor",
+        "room": "3",
+        "capacity": 2178,
+        "capacityRaw": "33*66"
+      },
+      {
+        "sNo": 4,
+        "block": "Arts",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 1458,
+        "capacityRaw": "27*54"
+      },
+      {
+        "sNo": 5,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "5",
+        "capacity": 1152,
+        "capacityRaw": "24*48"
+      },
+      {
+        "sNo": 6,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "6",
+        "capacity": 1980,
+        "capacityRaw": "30*66"
+      },
+      {
+        "sNo": 7,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "7",
+        "capacity": 2178,
+        "capacityRaw": "33*66"
+      },
+      {
+        "sNo": 8,
+        "block": "Arts",
+        "floor": "1st",
+        "room": "8",
+        "capacity": 1152,
+        "capacityRaw": "24*48"
+      },
+      {
+        "sNo": 9,
+        "block": "Arts",
+        "floor": "2nd",
+        "room": "9",
+        "capacity": 1152,
+        "capacityRaw": "24*48"
+      },
+      {
+        "sNo": 10,
+        "block": "Arts",
+        "floor": "2nd",
+        "room": "10",
+        "capacity": 2178,
+        "capacityRaw": "33*66"
+      },
+      {
+        "sNo": 11,
+        "block": "Arts",
+        "floor": "2nd",
+        "room": "11",
+        "capacity": 2178,
+        "capacityRaw": "33*66"
+      },
+      {
+        "sNo": 12,
+        "block": "Arts",
+        "floor": "2nd",
+        "room": "12",
+        "capacity": 1152,
+        "capacityRaw": "24*48"
+      },
+      {
+        "sNo": 13,
+        "block": "World Bank",
+        "floor": "1st",
+        "room": "1",
+        "capacity": 648,
+        "capacityRaw": "18*36"
+      },
+      {
+        "sNo": 14,
+        "block": "World Bank",
+        "floor": "1st",
+        "room": "2",
+        "capacity": 648,
+        "capacityRaw": "18*36"
+      },
+      {
+        "sNo": 15,
+        "block": "World Bank",
+        "floor": "1st",
+        "room": "3",
+        "capacity": 648,
+        "capacityRaw": "18*36"
+      },
+      {
+        "sNo": 16,
+        "block": "World Bank",
+        "floor": "1st",
+        "room": "4",
+        "capacity": 648,
+        "capacityRaw": "18*36"
+      },
+      {
+        "sNo": 17,
+        "block": "World Bank",
+        "floor": "2nd",
+        "room": "5",
+        "capacity": 648,
+        "capacityRaw": "18*36"
+      },
+      {
+        "sNo": 18,
+        "block": "World Bank",
+        "floor": "2nd",
+        "room": "6",
+        "capacity": 648,
+        "capacityRaw": "18*36"
+      }
+    ],
+    "totalCapacity": 720
+  },
+  {
+    "sNo": 20,
+    "name": "Govt. College of Education (IASE) Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "B.E.D",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "B.E.D",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "B.E.D",
+        "floor": "Ground Floor",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "B.E.D",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "B.E.D",
+        "floor": "Ground Floor",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "ECCE",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 7,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "9",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 9,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "12",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 12,
+        "block": "B.E.D",
+        "floor": "1st",
+        "room": "13",
+        "capacity": 48,
+        "capacityRaw": "48"
+      },
+      {
+        "sNo": 13,
+        "block": "SOE",
+        "floor": "1st",
+        "room": "SOE1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "SOE",
+        "floor": "1st",
+        "room": "SOE2",
+        "capacity": 12,
+        "capacityRaw": "12"
+      }
+    ],
+    "totalCapacity": 420
+  },
+  {
+    "sNo": 21,
+    "name": "Islamia College of science and commerce",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Zoology",
+        "floor": "GF",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "Zoology",
+        "floor": "GF",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "Zoology",
+        "floor": "GF",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "Botany",
+        "floor": "GF",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "Botany",
+        "floor": "GF",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "Botany",
+        "floor": "GF",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "Chemistry",
+        "floor": "GF",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "Chemistry",
+        "floor": "GF",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "Chemistry",
+        "floor": "GF",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "Commerce",
+        "floor": "GF",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "MBA 1",
+        "floor": "GF",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "MBA 2",
+        "floor": "GF",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "MBA 3",
+        "floor": "GF",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "MBA 4",
+        "floor": "GF",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "BCA 1",
+        "floor": "GF",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "BCA 2",
+        "floor": "GF",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "BCA 3",
+        "floor": "GF",
+        "room": "3",
+        "capacity": 16,
+        "capacityRaw": "16"
+      }
+    ],
+    "totalCapacity": 400
+  },
+  {
+    "sNo": 22,
+    "name": "Gandhi Memorial Collage ,Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Block A",
+        "floor": "Ground floor",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "Block A",
+        "floor": "Ground floor",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "Block A",
+        "floor": "1st Floor",
+        "room": "8",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "Block A",
+        "floor": "1st Floor",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "Block B",
+        "floor": "Ground floor",
+        "room": "18",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "Block B",
+        "floor": "1st Floor",
+        "room": "19",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "Block B",
+        "floor": "2nd Floor",
+        "room": "20",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "Block D",
+        "floor": "Ground floor",
+        "room": "15",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "Block D",
+        "floor": "Ground floor",
+        "room": "16",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 216
+  },
+  {
+    "sNo": 23,
+    "name": "Vishwa Bharati Women college Rainawari Srinagar",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Main Building",
+        "floor": "1st",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "Main Building",
+        "floor": "2nd",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 200
+  },
+  {
+    "sNo": 24,
+    "name": "SPRING BUDS EDUCATIONAL INSTITUTE",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 2,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 3,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 4,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 5,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "5",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 6,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "6",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 7,
+        "block": "Girls Block",
+        "floor": "2",
+        "room": "7",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 8,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "8",
+        "capacity": 0,
+        "capacityRaw": ""
+      },
+      {
+        "sNo": 9,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "9",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 10,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "10",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 11,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "11",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 12,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "12",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 13,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "13",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 14,
+        "block": "Girls Block",
+        "floor": "3",
+        "room": "14",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 16,
+        "block": "Boys Block",
+        "floor": "1",
+        "room": "15",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 17,
+        "block": "Boys Block",
+        "floor": "1",
+        "room": "16",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 18,
+        "block": "Boys Block",
+        "floor": "2",
+        "room": "17",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 19,
+        "block": "Boys Block",
+        "floor": "2",
+        "room": "18",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 20,
+        "block": "Boys Block",
+        "floor": "2",
+        "room": "19",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 21,
+        "block": "Boys Block",
+        "floor": "2",
+        "room": "20",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 22,
+        "block": "Boys Block",
+        "floor": "2",
+        "room": "21",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 23,
+        "block": "Boys Block",
+        "floor": "2",
+        "room": "22",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 24,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "23",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 25,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "24",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 26,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "25",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 27,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "26",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 28,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "27",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 29,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "28",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 30,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "29",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 31,
+        "block": "Boys Block",
+        "floor": "3",
+        "room": "30",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 32,
+        "block": "Boys Block",
+        "floor": "4",
+        "room": "31",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 33,
+        "block": "Boys Block",
+        "floor": "4",
+        "room": "32",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      },
+      {
+        "sNo": 34,
+        "block": "Boys Block",
+        "floor": "4",
+        "room": "33",
+        "capacity": 48,
+        "capacityRaw": "48D/48S"
+      },
+      {
+        "sNo": 35,
+        "block": "Boys Block",
+        "floor": "4",
+        "room": "34",
+        "capacity": 24,
+        "capacityRaw": "24D/24S"
+      }
+    ],
+    "totalCapacity": 840
+  },
+  {
+    "sNo": 25,
+    "name": "CRESCENT PUBLIC SCHOOL",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "107",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 2,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "105",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 3,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "101",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 4,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "102",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 5,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "103",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 6,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "104",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 7,
+        "block": "C",
+        "floor": "1st",
+        "room": "201",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 8,
+        "block": "C",
+        "floor": "1st",
+        "room": "202",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 9,
+        "block": "C",
+        "floor": "1st",
+        "room": "203",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 10,
+        "block": "C",
+        "floor": "1st",
+        "room": "204",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 11,
+        "block": "C",
+        "floor": "1st",
+        "room": "207",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 12,
+        "block": "C",
+        "floor": "1st",
+        "room": "209",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 13,
+        "block": "C",
+        "floor": "1st",
+        "room": "212",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 14,
+        "block": "C",
+        "floor": "1st",
+        "room": "213",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 15,
+        "block": "C",
+        "floor": "2nd",
+        "room": "313",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 16,
+        "block": "C",
+        "floor": "2nd",
+        "room": "310",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 17,
+        "block": "C",
+        "floor": "2nd",
+        "room": "309",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 18,
+        "block": "C",
+        "floor": "2nd",
+        "room": "307",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 19,
+        "block": "C",
+        "floor": "2nd",
+        "room": "305",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 20,
+        "block": "C",
+        "floor": "2nd",
+        "room": "301",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 21,
+        "block": "C",
+        "floor": "3rd",
+        "room": "402",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 22,
+        "block": "C",
+        "floor": "3rd",
+        "room": "403",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 23,
+        "block": "C",
+        "floor": "3rd",
+        "room": "404",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 24,
+        "block": "C",
+        "floor": "3rd",
+        "room": "406",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 25,
+        "block": "C",
+        "floor": "3rd",
+        "room": "409",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 26,
+        "block": "C",
+        "floor": "3rd",
+        "room": "401",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 27,
+        "block": "C",
+        "floor": "4th",
+        "room": "auditorium",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 28,
+        "block": "C",
+        "floor": "3rd",
+        "room": "407",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 29,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "108",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 30,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "111",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 31,
+        "block": "C",
+        "floor": "Ground Floor",
+        "room": "110",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 32,
+        "block": "C",
+        "floor": "1st",
+        "room": "211",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 33,
+        "block": "C",
+        "floor": "1st",
+        "room": "206",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 34,
+        "block": "Block-B",
+        "floor": "2nd floor",
+        "room": "302",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 35,
+        "block": "Block-B",
+        "floor": "2nd floor",
+        "room": "309",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 36,
+        "block": "Block-B",
+        "floor": "3rd floor",
+        "room": "410",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 37,
+        "block": "Block-B",
+        "floor": "3rd floor",
+        "room": "409",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 38,
+        "block": "Block-B",
+        "floor": "3rd floor",
+        "room": "406",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 39,
+        "block": "Block-B",
+        "floor": "3rd floor",
+        "room": "412",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 40,
+        "block": "Block-B",
+        "floor": "3rd floor",
+        "room": "401",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 41,
+        "block": "Block-B",
+        "floor": "3rd floor",
+        "room": "402",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 42,
+        "block": "Block-B",
+        "floor": "4th floor",
+        "room": "501",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      },
+      {
+        "sNo": 43,
+        "block": "Block-B",
+        "floor": "4th floor",
+        "room": "504",
+        "capacity": 24,
+        "capacityRaw": "6*4=24"
+      }
+    ],
+    "totalCapacity": 1024
+  },
+  {
+    "sNo": 26,
+    "name": "Tyndale BISCOE & Mallinson School",
+    "rooms": [
+      {
+        "sNo": 1,
+        "block": "MB-1",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 2,
+        "block": "MB-1",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 3,
+        "block": "MB-1",
+        "floor": "Ground Floor",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 4,
+        "block": "MB-1",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 5,
+        "block": "MB-2",
+        "floor": "3 FLOOR",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 6,
+        "block": "MB-2",
+        "floor": "3 FLOOR",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 7,
+        "block": "MB-2",
+        "floor": "3 FLOOR",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 8,
+        "block": "MB-2",
+        "floor": "3 FLOOR",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 9,
+        "block": "MB-3",
+        "floor": "Ground Floor",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 10,
+        "block": "MB-3",
+        "floor": "Ground Floor",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 11,
+        "block": "MB-3",
+        "floor": "Ground Floor",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 12,
+        "block": "MB-3",
+        "floor": "Ground Floor",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 13,
+        "block": "MB-4",
+        "floor": "1 FLOOR",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 14,
+        "block": "MB-4",
+        "floor": "1 FLOOR",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 15,
+        "block": "MB-4",
+        "floor": "1 FLOOR",
+        "room": "3",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 16,
+        "block": "MB-4",
+        "floor": "1 FLOOR",
+        "room": "4",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 17,
+        "block": "MB-5",
+        "floor": "4 FLOOR",
+        "room": "1",
+        "capacity": 24,
+        "capacityRaw": "24"
+      },
+      {
+        "sNo": 18,
+        "block": "MB-5",
+        "floor": "4 FLOOR",
+        "room": "2",
+        "capacity": 24,
+        "capacityRaw": "24"
+      }
+    ],
+    "totalCapacity": 432
+  }
+]
